@@ -1,6 +1,6 @@
 # Video Game Sales Data Analyst 
 
-ini adalah Proyek Data Analyst dengan sample data penjualan game di dunia. Project ini dibuat dengan Bahasa Phyton
+ini adalah Proyek Data Analyst dengan sample data penjualan game di dunia. Project ini dibuat dengan Bahasa Phyton dan Aplikasi Google Collab.
 
 ![Sreenshot](gambar/1.png)
 ![Sreenshot](gambar/2.png)
