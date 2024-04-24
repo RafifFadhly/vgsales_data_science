@@ -1,4 +1,4 @@
-# VGSALAES 
+# Video Game Sales Data Analyst 
 
 ini adalah Proyek Data Analyst dengan sample data penjualan game di dunia
 
